@@ -1,0 +1,169 @@
+00:00:03 ALICE WINKLER: During your lifetime, there’s a very good chance that one of Robert Langer’s innovations will save your life: a cancer treatment, a drug delivery system, a regenerated organ, even. And no, I’m not talking science fiction here. Dr. Langer heads a biomedical research lab at MIT, the largest in the world. He has written almost 1,400 articles and has nearly as many patents. Techniques he’s developed are used far and wide throughout the medical and pharmaceutical field, but Dr. Langer’s not a medical doctor. He’s a chemical engineer.
+
+00:00:42 ROBERT LANGER: I've always liked magic. This maybe sounds silly, but I’ve always liked magic, you know, and I still love magic. I mean, you know, I've even done some magic. I'm not a great magician, but I've done, like, some shows, and magic's always sort of fascinated me. And chemistry is always very magical. I mean the kinds of things — like, I remember when I was a little boy, you know, you'd have these solutions, and you could take one solution and mix it with another, and all of a sudden, it would change to, like a third color.
+
+00:01:09 And you could mix one thing with another, and it would turn, like, into rubber, and you know, those are reactions, and I thought, "Boy, this is really neat."
+
+00:01:18 ALICE WINKLER: This is What It Takes, a podcast about passion, vision, and perseverance, and trust me, this episode is definitely heavy on the perseverance. From the Academy of Achievement...
+
+00:01:32 ...I’m Alice Winkler.
+
+00:01:33 OPRAH WINFREY: "Hattie Mae, this child is gifted," and I heard that enough that I started to believe it.
+
+00:01:39 ROGER BANNISTER: If you have the opportunity, not a perfect opportunity, and you don't take it, you may never have another chance.
+
+00:01:45 LAURYN HILL: It all was so clear. It was just, like, the picture started to form itself.
+
+00:01:50 DESMOND TUTU: There was no way in which a lie could prevail over the truth, darkness over light, death over life.
+
+00:01:58 CAROL BURNETT (quoting CARRIE HAMILTON): “Every day I wake up and decide, today I'm going to love my life. Decide.”
+
+00:02:05 JOHNNY CASH: My advice is, if they're going to break your leg once when you go in that place, stay out of there.
+
+00:02:10 JAMES MICHENER: And then along come these differential experiences that you don't look for, you don't plan for, but boy, you’d better not miss them.
+
+00:02:22 ROBERT LANGER: You know, when you look at the world around us, I mean chemistry just is so fundamental to everything. I mean it makes the clothes you wear. It makes all of the materials that exist and, you know, synthetic materials in the world — our cars, the airplanes, everything, you know, is done by chemistry. Reactions can happen, and you can make things that you could never make before. And at the same time, chemistry provides a tool to understand so many things — how cells work, how drugs work, you know. And so, to me, it’s just, like, such an incredibly fundamental science.
+
+00:02:58 ALICE WINKLER: But it’s a science that Robert Langer has taken in some entirely unconventional directions. Here he is in 2014, describing to students at an Academy of Achievement Summit the twists and turns, the swamplands and summits along his remarkable path.
+
+00:03:18 ROBERT LANGER: I got my degree in chemical engineering at MIT in 1974, and I wasn’t sure what I wanted to do, but at that time, just like a couple of years ago, there was this gas shortage, and the prices of gas kept going up, but in Boston it was even worse. If you had a car, you actually had to wait in line at the gas station for about two hours to fill it up. But the consequence of all that is that if you were a chemical engineer, you got a lot of job offers, and pretty much every one of my friends actually decided to go to an oil company.
+
+00:03:49 And I thought, "That’s what I should do, too," because that’s basically what everybody did, so — and they were visiting MIT, and they gave a lot of offers. So I actually did get 20 job offers from oil companies, four actually from Exxon alone.
+
+00:04:03 And one of them, actually, though, made quite an impression on me. I remember going to Exxon in Baton Rouge, Louisiana, and they said, "You know, gee, if you could just increase the yield of this one chemical by point one percent," they said, “this would be wonderful. It would be worth billions." And I just remember flying back to Boston that night thinking to myself that I really didn’t want to do that. So what did I want to do? Well, I had this dream of using my background in chemical engineering to improve people’s lives.
+
+00:04:29 And one of the things I did when I was a graduate student, even when I was supposed to be doing my thesis, is I helped start a school for poor children in Cambridge and got involved in developing a lot of new chemistry and math curricula. And one day, I actually saw an ad from City College of New York to be an assistant professor to do just that, in chemistry, so I wrote them a letter applying for a job, but they didn’t write me back.
+
+00:04:54 But I really liked that idea of being assistant professor of chemistry education. I found about 40 ads, and I wrote to all of them, and actually, none of them wrote me back.
+
+00:05:05 I guess I wasn’t in the right box. So I started to think about other ways that I could use my background to help improve people’s lives, and I thought about medicine, so I applied to a lot of hospitals and medical schools. And they didn’t write me back, either.
+
+00:05:20 ALICE WINKLER: It wasn’t normal at the time — this was in the 1970s — for a hospital to take an engineer into its ranks, but one day someone in his lab told him he should think about writing to an unusual surgeon named Judah Folkman at Harvard. Folkman was a visionary sort, and sometimes he hired people who didn’t fit the mold.
+
+00:05:43 ROBERT LANGER: So anyhow, when I went — so I was actually the only engineer in Boston Children's Hospital. And I began working on two projects that were actually related: one to see if we could actually discover the first substance that could stop cancer blood vessels from growing, and hopefully then stop cancer growth; and two, to develop plastic systems, polymer systems, that could slowly release these and other large molecules for a long time so that we could test these substances.
+
+00:06:10 Now before I started working on this problem, no one had been able to develop ways to continuously release these substances for a long time from biocompatible polymers, and in fact, if you look in the scientific literature, they said, actually, it's impossible to do that. It's impossible to release these molecules. In fact, really, the only thing I had going for me is I hadn't read that literature.
+
+00:06:32 And so I actually spent about two years working on the project, and I actually found over 200 different ways to get it to not work.
+
+00:06:41 But finally I made a discovery that I could modify certain types of plastics and get them to release these molecules over a long time. And then we used these substances to create bioassays that enabled us to discover the first substances that stopped cancer blood vessels and to help stop cancer. Just as an aside, I should say that it took 28 years — this is sometimes how it works in medicine — from our earliest paper in science in this area until the FDA approved the first blood vessel inhibitor.
+
+00:07:10 ALICE WINKLER: If you can’t exactly follow the science here, don’t worry. The important takeaway is that what Robert Langer discovered was a way to put material into a tumor that releases a consistent flow of medicine over a long period of time. And that medicine, delivered sort of like an intravenous drip, but without the needle and the pole on its wheels, has the ability to starve a tumor of its blood supply.
+
+00:07:37 But when Robert Langer and Judah Folkman tried to patent this new polymer-controlled release delivery system, they were turned down five times. Their lawyer advised them to give up, but they were not the giving-up sort. Robert Langer finally prevailed by convincing the patent examiner that their work must be original because no one in the scientific world believed it was possible.
+
+00:08:04 That patent that they finally got from the 1970s has led to all kinds of products, including ones that treat schizophrenia, heart disease, and macular degeneration, which causes blindness. On the cancer front alone, well over 20 million patients have had treatments based on Langer’s discovery.
+
+00:08:25 ROBERT LANGER: Anyhow, going back to the 1970s, when I started — I wanted to point out that this controlled-release polymer work, you know — getting them to release a long time — it met with a lot of skepticism. In fact, about two years after I started working on it, I had to give this big talk in a polymer center in Midland, Michigan, and I’d never given a big talk before. In fact, the only talk I’d given before that was in eighth grade.
+
+00:08:48 And it didn’t go real well.
+
+00:08:51 I remember, that was a minute-and-a-half speech, and I rehearsed it for three hours the night before in front of my parents’ mirror. And then the next day came, and I got up in front of my eighth-grade class, and I kind of recited it, but then, after about a minute and two seconds, I could not remember the next word. And I stood up there in front of my eighth grade class for another minute, just absolutely frozen, saying nothing, until my eighth-grade teacher finally told me to sit down...
+
+00:09:18 ...and gave me a not particularly good grade. I think it was an F.
+
+00:09:23 So now when this Michigan talk came, many years later, I started working two weeks in advance on the talk. I kept practicing it over and over into a tape recorder, and finally, I got up and I gave that talk, you know, to that audience. This was 1976, so, you know, I was a lot younger. I had more hair; it was darker. And I was lecturing to a very distinguished group of chemical engineers and chemists, and I thought this time I did much better after the talk. I didn’t forget too much of what I was going to say, and I thought that these older scientists, being nice people, would want to encourage me, this young guy.
+
+00:09:54 But when I got done, a whole bunch of them came up to me, and they said, "We don’t believe anything you just said."
+
+00:10:01 They said, "You can’t get these molecules through polymers." Basically, the thinking was that it’s kind of like walking through a wall. And it wasn’t until several years later that — as people began to reproduce this, that the question shifted to better understanding how it would happen, which we also got involved doing.
+
+00:10:17 ALICE WINKLER: After that talk, though, he tried to get grant money for a variety of projects, but the answer that came back from funders was a resounding “no way.”
+
+00:10:27 ROBERT LANGER: And I remember writing one grant to the NIH on cancer, and I got the reviews back, which were really, really negative. They not only didn't give me the money, they said, "Well, how could Dr. Langer do this?" They said, "He's a chemical engineer. He doesn't know anything about biology, and he knows even less about cancer." I wasn't sure how that was possible to know less than nothing, but somehow that was the review.
+
+00:10:48 Anyhow, also, when I was done with my postdoctoral work, I applied for different faculty positions to different chemical engineering departments, but when I did that, I had a lot of trouble getting a job because they all felt I wasn't doing engineering. They felt it was more biology. So I ended up joining what was called the Nutrition and Food Science Department at MIT, but in that department, what happened was, about a year after I got the position, the chairman of the department left.
+
+00:11:12 So then a number of the senior members of the department decided they'd give me advice, and their advice was I should start looking for a new job.
+
+00:11:20 So there I was: I was getting my grants turned down; people didn't believe in my research; it appeared like I wasn't even going to get to be an associate professor. But fortunately, what happened over the next few years is different people in academics and in pharmaceutical companies started using a lot of our principles, and things slowly began to turn around.
+
+00:11:42 ALICE WINKLER: That was decades ago. Langer’s place in the annals of medical and biotech history are secure. Not just for these polymer drug delivery systems we’ve been talking about, but also for more recent advances that he and his researchers have made in nanotechnology and tissue regeneration, things that are still in development or in clinical trials, but that are already bringing about some of the next revolutions in medicine.
+
+00:12:11 When Robert Langer sat down for interviews with the Academy of Achievement in 2012 and 2016, he shared his excitement for the research, but he also talked more generally about his life as an engineer and his thoughts about his career, including all the “no's.” “No, your idea doesn’t make sense.” “No, it’s not done that way.” “No, you can’t have that job.” “No, you can’t have that money for research.”
+
+00:12:39 ROBERT LANGER: Well, I think the impact of “no” is a couple of things. I mean for me, early on, it was discouraging. I mean it was very discouraging for me to hear that. I didn’t realize that scientists were like that and that people were like that. I would think that — I would have thought — and I like to hope that I, you know, encourage people rather than discourage people. I mean I think you can say “no” and still say, you know, "Boy, that might be a tough problem, but you know, if you really work at, you know, maybe you’ll solve it," rather than, "No, it'll never happen."
+
+00:13:06 But “no” can be very discouraging, but I think if you really believe in what you're trying to do, I mean “no” is not going to stop you. It might be discouraging, but it's still — I mean it's just somebody saying it. It's not — it doesn't necessarily have — they don't necessarily have to be right. And I think that, for me, say, in Dr. Folkman’s case, the fact that he had people say “no” and they weren’t right, I mean that was a very good role model for me to see.
+
+00:13:36 ALICE WINKLER: And he was just born stubborn. That’s what Langer told Washington Post reporter Mary Jordan, one of the people who interviewed him for the Academy of Achievement.
+
+00:13:45 ROBERT LANGER: I mean I think you have to realize that if you want to do something that's important, you know, you're going to face a lot of rejection, or at least it's very likely that you will. And so I just feel like, in the end, if you want to be happy and satisfied, it's good to dream big dreams, dreams that can change the world. And I guess, to me, when I was younger, I was more concerned about doing something that I felt was important than I was about necessarily keeping a job or something like that.
+
+00:14:16 I mean that was also probably a part of it. You know, I remember thinking, when I was looking for a jobs, that if I didn’t find something important that I believed in, that I wanted to do, that I'd be perfectly happy working at an ice cream parlor for a couple years.
+
+00:14:32 ALICE WINKLER: Langer is a self-proclaimed ice cream lover, and I’m sure he would have come up with a new method to make the very best milkshakes. But thank goodness for his patience and determination and creativity because it turns out the medical world was desperately in need of his perspective as a chemical engineer, even if they didn’t know it at the time. Langer sees it in poetic terms. Quoting Robert Frost, he likes to say he took the road less traveled, and as the poem concludes, it did make all the difference.
+
+00:15:06 ROBERT LANGER: Yeah. Well, I think what happens is you see things because you come up with a different perspective, and I'll give you an example. So one of the things I saw because I was a chemical engineer and I was doing something on materials, is that I was curious, like, how did materials find their way into medicine? And what I could see was, almost the entire 20th century, the driving force for bringing materials into medicine were medical doctors who urgently wanted to solve a medical problem. And they would go to their house because that's what they were used to, and they'd see if there's some object that kind of resembled the organ or tissue they wanted to fix.
+
+00:15:42 So, for example, in the case of the artificial heart, what they did is they picked a lady's girdle material because it had a good flex life, and that's what they still use in the artificial heart today. Hasn't worked that well, either. In the case of a breast implant, they actually picked a mattress stuffing, probably because it was squishy, and that was kind of the thinking that people did for many years. And I started thinking, "Well, you know, some of these things cause complications, and it's probably not the optimal way to do things," which you learn as an engineer. One of the things you learn as an engineer is what I'll call “design.”
+
+00:16:13 So I thought, "Why can't we ask the question, ‘What do we really want in a medical material from an engineering standpoint, chemistry standpoint, and biology standpoint?’" And then maybe we could synthesize it, you know, chemically, from first principles. So we would start to ask questions like that and then make new medical materials with absolute — you know, really the desired properties. And then we would start to take them through animal trials, clinical trials, and that would lead to some new treatments for brain cancer and for other things too.
+
+00:16:40 I should probably say that, really, what we did is we created a lot of basic principles, and those principles are pretty much now used by the pharmaceutical industry in many different ways to, you know, formulate and make drugs. And then, in some cases, we've actually started companies and helped companies do this. If you look at all of it — I mean, you know, now there are new treatments based on these things for prostate cancer, for brain cancer, for schizophrenia, for narcotic addiction, for type 2 diabetes, for a lot of things.
+
+00:17:19 And you know, they all have, you know, either lengthened lives, in some cases saved lives, so you know — so I think that, you know, it just leads to new, better medical treatments.
+
+00:17:31 ALICE WINKLER: And Langer’s personal experience has led him to staff his own lab at MIT with people who come from all different disciplines — cell and molecular biologists, chemical and electrical engineers, material scientists, and an eclectic array of medical specialists. They work together to tackle problems from multiple angles, and sometimes they start their own companies to bring new products into the medical market. That’s something else that distinguishes Langer’s lab, and it’s something he learned from experience early on with his polymer drug delivery discovery.
+
+00:18:09 ROBERT LANGER: You know, I was pretty naïve about this. I’d worked on this for nine or ten years. Nobody was using it, but then one company, and then a second company — one in animal health and one in human health — wanted to license it. And they actually gave me a consulting fee and grant money, and I was so excited about this. You know, I got a better car...
+
+00:18:25 ...and I had money to support our lab. But these companies were very large; they were multibillion-dollar companies. And what happened was — even though they gave us grant money at MIT — what happened is they themselves would do maybe one or two experiments over a year or two. And if they didn't work out right — and in science most things don't work out right the first time — they just gave up. So a few years later, one of my friends at MIT, Alex Klibanov, he said, "Bob, why don't we just start a company ourselves?"
+
+00:18:52 So I was able to get these patents back, and we started a little company, Enzytech, and that later merged with our downstairs neighbor to become Alkermes. And they use these microspheres to develop drug delivery systems for all kinds of drugs, one of them — some of them can treat cancer. One of them has actually been used in over five million schizophrenic patients. There are ones for treating alcoholism, narcotic addiction, and so many of these are now on the market, which have affected many, many millions of people.
+
+00:19:19 ALICE WINKLER: Langer says he got a lot of criticism when he started to help his own postdoctoral fellows launch companies. People thought it was bad form for academic scientists to enter the commercial realm. But Langer says big, established companies often aren’t well suited to turning a new idea, even a lab-proven one, into a reality. And students of his who’ve spent five or six years working on something and have made an important breakthrough sometimes say, "I want to take it the next step."
+
+00:19:51 ROBERT LANGER: "I don't want to just publish a paper and send it out to the world. I want to see this, you know, really happen and make it happen myself." So they might say, "Could we start a company?" And, you know, we do that, too.
+
+00:20:03 ALICE WINKLER: Of course, plenty of the researchers who come out of Dr. Langer’s lab do not start companies. Many of them, about half, become professors and deans and department heads at prestigious universities around the world. Langer talks about all of them, the biotech entrepreneurs and the teachers of the next generation, with the kind of adoring pride a father has for his children, his 600 children, so far. They are part of what he considers his greatest legacy.
+
+00:20:34 But that legacy is still evolving because Langer is far from finished. He’s 68, as I record this podcast, and is involved in two mind-blowing areas of research, nanotechnology and regenerative medicine, or tissue engineering. As he told interviewer Mary Jordan, the idea for applying nanotech to medicine came to him years ago in one of those “ah-ha” moments. He was watching a TV show about microchips in the computer industry, and where I probably would have thought, "Time to make popcorn," Robert Langer thought, "Wow, those microchips could be very neat for making time-release drug implants." A couple of decades of hard work later, and Langer is again pioneering the future.
+
+00:21:23 ROBERT LANGER: Well, I think there are a couple of futures for time-release medicine, maybe more than a couple. But one future that we're working on is that you could take a pill, maybe once a week, maybe even once a month, maybe even once a year. Also, we're doing stuff on what I'll call “smarter pills,” or “smarter implants,” where you could, you know, even have electronic components in some of these systems, so you could actually do remote-controlled drug delivery. Or maybe you wouldn't even need to do that at all. You'd have a system that could, you know, sense something in the body and deliver the drug in response to it, say, glucose and insulin, as an example.
+
+00:21:57 MARY JORDAN: So it's almost like a remote control. You take a pill, but you can still talk to that pill that's in the body?
+
+00:22:03 ROBERT LANGER: Well, we actually have created these little microchips that you can implant in the body. And if you turn on a signal, you can make a drug come out when you turn that signal on, and if you turn the signal off, it'll stop. So I think you can do that. Someday, we might be able to implant sensors into those kinds of chips so that you'll be able to sense signals in the body and have the chip deliver in response to whatever you sense, so those are some things.
+
+00:22:32 We're also putting electrical components in pills so that you can, you know, maybe get information in the body, as well.
+
+00:22:40 MARY JORDAN: And why is it so important to have a pill that — once a week or once a month? A lot of — you know, just...
+
+00:22:48 ROBERT LANGER: Yeah.
+
+00:22:48 MARY JORDAN: Why is that? Because...
+
+00:22:49 ROBERT LANGER: Great question. Because people don't take their pills, you know. And, I mean it's amazing. Like, in the third world, I mean patient compliance, meaning how often they take their pills, you know, very often it's under 25 percent. So you don't — and, in fact, some of this work started when Bill Gates and some of his staff came to see me. You know, they wanna see better treatments for malaria and other diseases, like tuberculosis, and there are drugs that can stop them, but if people don't take them then you don't stop them, and then they die, and so that's a huge third-world problem.
+
+00:23:26 Even in our country, like one of my friends, Denny Ausiello. He's a — was chief of medicine at Mass General for many years, said, "You know, like, if you're supposed to take a statin drug — " that's a drug that can treat heart disease — "And you're supposed to take it for the rest of your life," he said he gives people a quiz. He said, "What do you think the mean amount of time that somebody takes a statin drug for in the United States?" And I said —
+
+00:23:48 And the answer's three months, you know? And so that's — and there have been articles, like in the New England Journal of Medicine, that say if people took their pills, you'd — just for hypertension alone, heart disease, you'd save something like 100,000 premature deaths a year, and it's — and other areas that I think it would be really important are brain diseases, like Alzheimer's, people don't take pills. Mental health diseases, you know, they don't take pills or shots. I mean, it's not limited to those. I mean, it's an across-the-board problem.
+
+00:24:21 MARY JORDAN: Let's talk about creating new tissues and organs. I mean, that's really shooting for the stars, but how could that — when — is it a when and not an if?
+
+00:24:31 ROBERT LANGER: It depends where. So you can already create new skin for burn victims. That's being done. That's used clinically. There's a number of others in clinical trials, but I think it's still — depending on the tissue or organ, a lot of it's a when in terms of it being widely used. I think there's still a lot of research to do, but it's been interesting to see what's happened over the last, say, 30 years since we began a lot of this work, and, you know, my hope is that, certainly in this century, we'll see many examples of that.
+
+00:25:04 MARY JORDAN: And that would mean what, for instance?
+
+00:25:07 ROBERT LANGER: Well, it could mean someday that we'll have a artificial pancreas that, you know, diabetics wouldn't have to take injections, but it's not just the injections, of course. It's, like, hopefully they'd live longer, better lives. They wouldn't get diabetic complications. It could mean that people won't — if they get terrible injuries, like, that could paralyze them that they could regain their ability to walk. It could mean that if people are deaf that they could hear. Could mean that if people are blind, they can see. I mean, so it could mean all those things and more.
+
+00:25:39 ALICE WINKLER: They may not be all the way there yet, but this is not pie in the sky stuff. In addition to skin for burn victims, Langer and his colleagues have actually grown cartilage and bone.
+
+00:25:52 ROBERT LANGER: I think things that are actually now in the clinic, I'm very excited about work that we started a number of years ago on paralysis that we actually — now there's a clinical trial going on based on work we did where actually they have treated seven patients, you know, to create new spinal cords, to help repair spinal cords, and so people who are paralyzed are doing better in these studies because of them. That's still early too, but it's on patients, and so it's very exciting to see that.
+
+00:26:20 MARY JORDAN: What is it like to see someone walk again because of the work you do?
+
+00:26:26 ROBERT LANGER: Yeah, that's a thrill. I mean, that's a thrill. Of course, you know, I have to temper that by saying that, you know, research is a long road, and just 'cause one person does well, you know, or two people or five people, you wanna make sure that many people do well, but it's a thrill. I mean, it's almost a shock, you know? That you created something, and that it's being used in people, and it's helping them, but it's a good shock.
+
+00:26:51 MUSIC
+
+00:26:55 ALICE WINKLER: We started this episode by listening to some of Robert Langer’s talk to students about the bumpy path that brought him to make such remarkable contributions to medicine. His work has eased immeasurable suffering and saved countless lives, so I wanna end this episode by letting you hear the end of that talk.
+
+00:27:16 ROBERT LANGER: Well, that's pretty much what I wanted to tell you, and I was trying to think of a way to sort of just this sum up. Are there any lessons learned? And for me, as a scientist, the journey to here has been one of — for me, of trying to dream big dreams, but one of the things I realized when you do this is that a lot of times — and this is not just true for science. It's probably true in any area, that when you try to dream dreams that can help change the world and help people, and think about things like this, that a lot of times people will tell you that your idea is impossible, your invention is impossible, it could never work.
+
+00:27:47 But I think that's very rarely true. I think if you really believe in yourself, if you're persistent and work hard that there's very little that's truly impossible. Thank you so much.
+
+00:27:57 ALICE WINKLER: Truly a pioneer. That’s Dr. Robert Langer. I’m Alice Winkler, and this is What It Takes, from the Academy of Achievement. Our podcast is funded ever so generously by the Catherine B. Reynolds Foundation. Thanks to them, and thanks to you for listening.
+
+00:28:14 MUSIC
